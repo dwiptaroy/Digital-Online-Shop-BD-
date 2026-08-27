@@ -1,0 +1,6 @@
+{
+  "name": "Digital Online Shop BD",
+  "description": "Organic food and natural products e-commerce brand delivering wholesome, natural selections across Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
